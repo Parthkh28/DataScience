@@ -18,7 +18,7 @@
 ├── dockerfile                 >dockerFile used to automate the process of building a Docker image
 ├── news_classification.ipynb  >news classification model trained using  DistilBERT
 ├── README.md    
-└── requirements.txt           > Stores theinformation about all the libraries, modules, and packages in itself that are used while developing the project
+└── requirements.txt           > Stores the information about all the libraries, modules, and packages in itself that are used while developing the project
 ```
 ### Reason for Choosing DistilBERT for Transfer Learning
 
