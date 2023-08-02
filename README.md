@@ -1,3 +1,5 @@
+
+
 # Data Science Assignment 
 
 
@@ -60,12 +62,15 @@ Now visit http://localhost:5000
 ## This flask app allows users to submit input requests either through an **API** or a **web application form**.
 
 ### Through Web Application Form
+https://github.com/Parthkh28/DataScience/assets/80260929/e349f5a4-2abc-493b-b4a7-608452b65361
 
-[![IMAGE ALT TEXT]("")
+
+
+
 
 ### Through API using POSTMAN
 
-[![IMAGE ALT TEXT]("")
+https://github.com/Parthkh28/DataScience/assets/80260929/3fc9691f-5934-41d3-8f10-e3b68403637d
 
 
 And of course Dillinger itself is open source with a [public repository][dill]
