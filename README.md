@@ -14,11 +14,11 @@
 ├── templates   
 │            ├──index.html      >HTML file
 ├── .gitattributes              > to track the  large saved  model files using git-lfs
-├── Dockerfile
-├── news_classification.ipynb  >news classification model trained using  DistilBERT
 ├── app.py                     >flask  application main file
-├── dockerfile                 >DockerFile to automate process of building a Docker image    
-└── requirements.txt               > Stores the python  modules
+├── dockerfile                 >dockerFile used to automate the process of building a Docker image
+├── news_classification.ipynb  >news classification model trained using  DistilBERT
+├── README.md    
+└── requirements.txt           > Stores the python  modules
 ```
 ### Reason for Choosing DistilBERT for Transfer Learning
 
