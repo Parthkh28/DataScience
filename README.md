@@ -73,8 +73,6 @@ https://github.com/Parthkh28/DataScience/assets/80260929/e349f5a4-2abc-493b-b4a7
 https://github.com/Parthkh28/DataScience/assets/80260929/3fc9691f-5934-41d3-8f10-e3b68403637d
 
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
 
 ## To source and distribute data for building a text classification model from the internet, I would adopt several methods as a data scientist. Some of the methods are:
 
